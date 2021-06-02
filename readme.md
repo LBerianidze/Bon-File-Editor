@@ -1,7 +1,7 @@
 # Main
 
 Window GUI Application to edit Anjelica Engine 'bon' files
-![Image of Yaktocat](https://i.snipboard.io/w3k8pP.jpg)
+![Image of Application](https://i.snipboard.io/w3k8pP.jpg)
 ## Abilities
 
 - Open Anjelica Engines 'bon' file of any version
